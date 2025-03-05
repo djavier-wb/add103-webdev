@@ -1,0 +1,48 @@
+body{
+    background: rgb(76, 76, 35);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    font-size: large;
+}
+
+img{
+    width:70%;
+    display: block;
+    margin: 10px auto;
+    padding: 20px;
+    background: rebeccapurple;
+    border: 3px solid orange;
+    border-radius: 50px;
+}
+
+h1, h2 {
+    color:burlywood;
+    font-family:fantasy;
+}
+
+h1{
+    text-align:center;
+}
+
+p{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    list-style-type: disc;
+}
+ol{
+    list-style-type: lower-greek;
+}
+
+dt{
+    font-family: system-ui;
+    color: brown;
+    font-weight: bolder;
+}
+
+dd{
+    font-family: monospace;
+    color: blueviolet;
+    font-weight: bold;
+}
