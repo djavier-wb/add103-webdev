@@ -20,9 +20,9 @@ h1{
     text-align: center;
 }
 
-.grid-container > div{
+.grid-container{
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: auto auto auto auto auto;
     gap: 10px;
     background-color: darkslategrey;    
     padding: 10px;
