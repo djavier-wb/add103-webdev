@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <h1> My interests & hobbies </h1>
+    <nav> 
+       <a href="page 1.html">page 1</a>
+       <img src="images/bus-93219_1280.png" alt="Bus">
+       <img src="images/airplane-6621932_1280.jpg" alt="Airplane">
+       <img src="images/train-3255183_1280.jpg" alt="train">
+       <img src="images/school-bus-3711352_1280.jpg" alt="school bus">
+       <img src="images/new-york-4271589_1280.jpg" alt="Taxi">
+       <a href="page 2.html">page 2</a>
+       <img src="images/games-2453777_1280.jpg" alt="games">
+       <img src="images/video-games-4000290_1280.jpg" alt="video games">
+       <img src="images/gaming-4970616_1280.jpg" alt="gaming setup">
+       <img src="images/gaming-console-254691_1280.jpg" alt="gaming console">
+       <img src="images/button-4628422_1280.jpg" alt="remote controller">
+       <a href="page 3.html">page 3</a>
+       <img src="images/texas-fair-2688868_1280.jpg" alt="State fair/Carnival">
+       <img src="images/ferris-wheel-6587185_1280.jpg" alt="Ferris Wheel">
+       <img src="images/water-slide-960318_1280.jpg" alt="Water Slide">
+       <img src="images/waterslide-4256112_1280.jpg" alt="Interior water slide">
+       <img src="images/wisconsin-2445257_1280.jpg" alt="Roller Coaster">
+       <a href="page 4.html">page 4</a>
+       <img src="images/firework-1496129_1280.jpg" alt="sky fireworks">
+       <img src="images/fireworks-74689_1280.jpg" alt="fireworks">
+       <img src="images/camera-4439467_1280.jpg" alt="photographing fireworks">
+       <img src="images/new-year-1281534_1280.jpg" alt="new year">
+       <a href="page 5.html">page 5</a>
+       <img src="images/cookies-8863339_1280.jpg" alt="4th of july cookies"> 
+       <img src="images/parade-321411_1280.jpg" alt="parade">
+       <img src="images/marching-band-30354_1280.png" alt="US Marching band">
+       <img src="images/fireworks-1783300_1280.jpg" alt="fireworks">
+    </nav>
+</body>
+</html>
