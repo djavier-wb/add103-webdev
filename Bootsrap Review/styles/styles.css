@@ -1,0 +1,37 @@
+body {
+    background-color: darkgrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+a {
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+p {
+    text-align: center;
+    color: aquamarine;
+    padding: 5%;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+h2 {
+    text-align: center;
+    color: coral;
+}
+
+th {
+    text-align: center;
+    color: black;
+    padding: 5px;
+}
+
+td {
+    text-align: center;
+    color: black;
+}
